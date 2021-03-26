@@ -2,7 +2,6 @@ package simpledb.transaction;
 
 import java.io.Serializable;
 import java.util.concurrent.atomic.AtomicLong;
-
 /**
  * TransactionId is a class that contains the identifier of a transaction.
  */
